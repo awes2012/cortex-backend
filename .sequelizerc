@@ -1,0 +1,13 @@
+// required to provide correct paths to run sequelize migrations
+//  eg. npx sequelize-cli db:migrate
+
+const path = require('path');
+require('dotenv').config(); // Ensure environment variables are loaded
+
+
+module.exports = {
+  config: path.resolve('app/config', 'db.config.js'),
+  'models-path': path.resolve('app/models'),
+  'migrations-path': path.resolve('migrations'),
+  'seeders-path': path.resolve('seeders'),
+};
