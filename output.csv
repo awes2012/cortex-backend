@@ -1,0 +1,421 @@
+Date,Camera Serial,Camera Name,Plate,Speed(kph),ViolationType,Status
+2024-Jun-23 17:20:13,2882,Milagro2882,GS01716,36.454,RedLight,incomplete
+2024-Jun-23 16:48:20,2895,,6TF6881,19.8772,RedLight,incomplete
+2024-Jun-23 16:34:20,2882,Milagro2882,PDJ8946,46.9977,RedLight,incomplete
+2024-Jun-23 16:21:30,2882,Milagro2882,GB03848L,30.3834,RedLight,incomplete
+2024-Jun-23 16:09:57,2882,Milagro2882,GTI3655,31.6648,RedLight,incomplete
+2024-Jun-23 16:04:49,2882,Milagro2882,,50.4072,RedLight,no assign
+2024-Jun-23 15:03:12,2882,Milagro2882,GRT531,39.7024,RedLight,incomplete
+2024-Jun-23 14:09:22,2895,,GSP9973,24.2697,RedLight,incomplete
+2024-Jun-23 13:55:20,2882,Milagro2882,6SFF8,28.1542,RedLight,no assign
+2024-Jun-23 13:39:21,2895,,GTI9765,22.9972,RedLight,incomplete
+2024-Jun-23 13:26:20,2882,Milagro2882,PBA6266,36.412,RedLight,incomplete
+2024-Jun-23 11:39:28,2882,Milagro2882,GTG8510,21.7106,RedLight,incomplete
+2024-Jun-23 11:38:19,2895,,,19.642,RedLight,no assign
+2024-Jun-23 11:19:12,2882,Milagro2882,,36.4588,RedLight,no assign
+2024-Jun-23 11:06:07,2882,Milagro2882,GNV617,26.9081,RedLight,no assign
+2024-Jun-23 10:57:44,2895,,,17.3452,RedLight,no assign
+2024-Jun-23 10:00:41,2882,Milagro2882,GTM8925,34.3308,RedLight,incomplete
+2024-Jun-23 09:09:21,2882,Milagro2882,PP469,16.9576,RedLight,incomplete
+2024-Jun-23 08:59:07,2882,Milagro2882,GSF3488,50.4184,RedLight,incomplete
+2024-Jun-23 08:55:53,2895,,,25.5242,RedLight,incomplete
+2024-Jun-23 08:52:40,2882,Milagro2882,6BN5489,37.9389,RedLight,incomplete
+2024-Jun-23 08:42:24,2882,Milagro2882,,35.292,RedLight,incomplete
+2024-Jun-23 08:40:14,2895,,,19.4828,RedLight,incomplete
+2024-Jun-23 06:28:54,2882,Milagro2882,G8P1059,47.8375,RedLight,incomplete
+2024-Jun-23 06:10:55,2882,Milagro2882,PFI5771,67.0171,RedLight,incomplete
+2024-Jun-23 01:17:50,2895,,GTJ2494,20.9076,RedLight,no assign
+2024-Jun-23 00:06:16,2882,Milagro2882,6SV1101,23.2542,RedLight,incomplete
+2024-Jun-22 23:50:53,2882,Milagro2882,6TQ7418,30.4528,RedLight,incomplete
+2024-Jun-22 23:36:46,2882,Milagro2882,2121,31.7774,RedLight,incomplete
+2024-Jun-22 23:04:43,2882,Milagro2882,GBN5418,30.1378,RedLight,incomplete
+2024-Jun-22 23:03:24,2882,Milagro2882,GSK7516,41.3899,RedLight,no assign
+2024-Jun-22 21:59:15,2882,Milagro2882,GSR877,35.9939,RedLight,no assign
+2024-Jun-22 21:43:51,2882,Milagro2882,6SV1680,22.9746,RedLight,no assign
+2024-Jun-22 21:39:59,2882,Milagro2882,,33.455,RedLight,no assign
+2024-Jun-22 21:36:08,2882,Milagro2882,,17.0182,RedLight,no assign
+2024-Jun-22 21:20:45,2882,Milagro2882,GSV3316,30.9441,RedLight,no assign
+2024-Jun-22 21:01:30,2882,Milagro2882,6TQ7418,27.9437,RedLight,no assign
+2024-Jun-22 20:28:08,2882,Milagro2882,,19.9788,RedLight,no assign
+2024-Jun-22 20:25:34,2882,Milagro2882,GB07870,23.3022,RedLight,no assign
+2024-Jun-22 20:12:44,2882,Milagro2882,6T04426,30.3631,RedLight,no assign
+2024-Jun-22 19:59:39,2882,Milagro2882,,49.4059,RedLight,incomplete
+2024-Jun-22 19:58:13,2882,Milagro2882,,18.7553,RedLight,incomplete
+2024-Jun-22 19:53:52,2882,Milagro2882,PBC7051,32.5265,RedLight,incomplete
+2024-Jun-22 18:12:23,2882,Milagro2882,T4933,32.5039,RedLight,no assign
+2024-Jun-22 17:46:16,2882,Milagro2882,GTL3698,32.441,RedLight,no assign
+2024-Jun-22 16:43:18,2882,Milagro2882,GSG2715,40.3733,RedLight,no assign
+2024-Jun-22 16:18:25,2895,,GLV026,30.3194,RedLight,no assign
+2024-Jun-22 15:19:53,2882,Milagro2882,,28.1752,RedLight,no assign
+2024-Jun-22 15:18:36,2882,Milagro2882,0,40.0136,RedLight,no assign
+2024-Jun-22 15:12:10,2882,Milagro2882,,23.6862,RedLight,no assign
+2024-Jun-22 15:10:55,2882,Milagro2882,GKL867,17.3869,RedLight,no assign
+2024-Jun-22 15:10:53,2882,Milagro2882,GBJ032,22.4816,RedLight,no assign
+2024-Jun-22 14:27:34,2882,Milagro2882,,24.3016,RedLight,no assign
+2024-Jun-22 14:02:33,2882,Milagro2882,GTA1624,29.6668,RedLight,no assign
+2024-Jun-22 13:40:55,2895,,GME142,27.1121,RedLight,no assign
+2024-Jun-22 13:35:00,2882,Milagro2882,JH,32.0493,RedLight,no assign
+2024-Jun-22 13:19:03,2882,Milagro2882,GSU4598,50.2453,RedLight,no assign
+2024-Jun-22 13:00:18,2882,Milagro2882,GTP5180,27.62,RedLight,no assign
+2024-Jun-22 12:50:01,2882,Milagro2882,GSZ2632,33.3712,RedLight,no assign
+2024-Jun-22 12:26:56,2882,Milagro2882,,35.4971,RedLight,no assign
+2024-Jun-22 12:24:22,2882,Milagro2882,,26.5267,RedLight,no assign
+2024-Jun-22 11:36:52,2882,Milagro2882,GTN7022,27.6672,RedLight,no assign
+2024-Jun-22 11:12:30,2882,Milagro2882,PDP2218,24.4783,RedLight,no assign
+2024-Jun-22 11:04:47,2882,Milagro2882,GTK7828,33.0293,RedLight,no assign
+2024-Jun-22 10:54:32,2882,Milagro2882,2090,25.7591,RedLight,no assign
+2024-Jun-22 10:45:33,2882,Milagro2882,GTD9788,41.8421,RedLight,no assign
+2024-Jun-22 10:37:54,2895,,GTJ7078,31.0771,RedLight,no assign
+2024-Jun-22 10:27:24,2895,,,23.9144,RedLight,no assign
+2024-Jun-22 10:01:56,2882,Milagro2882,GSW5847,33.744,RedLight,no assign
+2024-Jun-22 09:41:24,2882,Milagro2882,TBK1928,22.0563,RedLight,no assign
+2024-Jun-22 09:19:43,2882,Milagro2882,,33.5074,RedLight,no assign
+2024-Jun-22 09:03:24,2895,,BN1368,31.6039,RedLight,no assign
+2024-Jun-22 08:38:31,2882,Milagro2882,GTK4253,34.4347,RedLight,no assign
+2024-Jun-22 08:22:32,2882,Milagro2882,,21.7671,RedLight,no assign
+2024-Jun-22 08:16:55,2895,,GSX995,19.1862,RedLight,no assign
+2024-Jun-22 08:04:38,2882,Milagro2882,GTE2147,46.6293,RedLight,no assign
+2024-Jun-22 07:30:12,2882,Milagro2882,,35.1883,RedLight,no assign
+2024-Jun-22 06:55:04,2895,,,31.9384,RedLight,no assign
+2024-Jun-22 05:31:11,2882,Milagro2882,5,21.8808,RedLight,no assign
+2024-Jun-22 04:53:30,2895,,G0Y534,17.3724,RedLight,no assign
+2024-Jun-21 23:21:37,2882,Milagro2882,,31.3902,RedLight,no assign
+2024-Jun-21 23:21:19,2882,Milagro2882,6SD7862,23.348,RedLight,no assign
+2024-Jun-21 22:47:58,2882,Milagro2882,,46.1222,RedLight,no assign
+2024-Jun-21 22:35:09,2882,Milagro2882,,32.8902,RedLight,no assign
+2024-Jun-21 22:23:36,2882,Milagro2882,GB05420,39.9552,RedLight,no assign
+2024-Jun-21 22:10:45,2882,Milagro2882,GSN3083,25.8268,RedLight,no assign
+2024-Jun-21 21:52:48,2882,Milagro2882,,28.9359,RedLight,no assign
+2024-Jun-21 21:46:22,2882,Milagro2882,GSU5892,27.2883,RedLight,no assign
+2024-Jun-21 21:20:43,2882,Milagro2882,N14,24.0541,RedLight,no assign
+2024-Jun-21 21:12:59,2882,Milagro2882,,20.6985,RedLight,no assign
+2024-Jun-21 20:39:38,2882,Milagro2882,,27.8629,RedLight,no assign
+2024-Jun-21 20:21:41,2882,Milagro2882,,32.3187,RedLight,no assign
+2024-Jun-21 20:12:42,2882,Milagro2882,GSW4775,39.8499,RedLight,no assign
+2024-Jun-21 19:29:10,2882,Milagro2882,6TK5934,26.2924,RedLight,no assign
+2024-Jun-21 19:20:30,2882,Milagro2882,GPX0160,28.0797,RedLight,no assign
+2024-Jun-21 19:10:19,2882,Milagro2882,GLE567,30.9457,RedLight,no assign
+2024-Jun-21 18:15:13,2882,Milagro2882,GSV5943,24.2005,RedLight,no assign
+2024-Jun-21 18:12:19,2882,Milagro2882,GSZ2148,21.9898,RedLight,no assign
+2024-Jun-21 18:09:27,2895,,6ST7826,21.9468,RedLight,no assign
+2024-Jun-21 18:09:26,2882,Milagro2882,6TF6332,25.2449,RedLight,no assign
+2024-Jun-21 18:05:04,2882,Milagro2882,GYX8300,27.7687,RedLight,no assign
+2024-Jun-21 17:54:27,2895,,GB07872,25.3742,RedLight,no assign
+2024-Jun-21 17:48:27,2895,,GTN3931,25.5571,RedLight,no assign
+2024-Jun-21 17:30:18,2882,Milagro2882,MBB5953,25.2575,RedLight,no assign
+2024-Jun-21 17:25:59,2895,,GT04578,24.2917,RedLight,no assign
+2024-Jun-21 17:14:20,2882,Milagro2882,GIH063,30.1002,RedLight,no assign
+2024-Jun-21 17:10:00,2882,Milagro2882,6BN6728,46.9783,RedLight,no assign
+2024-Jun-21 16:58:39,2882,Milagro2882,GSU1738,21.6934,RedLight,no assign
+2024-Jun-21 16:47:06,2882,Milagro2882,UBA8337,31.2187,RedLight,no assign
+2024-Jun-21 16:12:27,2882,Milagro2882,,31.7479,RedLight,no assign
+2024-Jun-21 16:10:58,2895,,GTL4449,30.6597,RedLight,no assign
+2024-Jun-21 16:10:56,2895,,PC00865,20.0156,RedLight,no assign
+2024-Jun-21 12:58:58,2882,Milagro2882,GSW2204,27.8111,RedLight,no assign
+2024-Jun-21 12:47:26,2882,Milagro2882,GTE5359,36.7096,RedLight,no assign
+2024-Jun-21 12:43:35,2882,Milagro2882,GLV548,32.4907,RedLight,no assign
+2024-Jun-21 12:24:19,2882,Milagro2882,MBB2502,35.1464,RedLight,incomplete
+2024-Jun-21 12:21:45,2882,Milagro2882,,34.7341,RedLight,incomplete
+2024-Jun-21 12:20:29,2882,Milagro2882,GSB5571,27.777,RedLight,incomplete
+2024-Jun-21 12:15:20,2882,Milagro2882,PZQ0814,28.9605,RedLight,incomplete
+2024-Jun-21 12:10:13,2882,Milagro2882,BR3637,44.5288,RedLight,incomplete
+2024-Jun-21 12:03:47,2882,Milagro2882,6TB2465,39.8532,RedLight,incomplete
+2024-Jun-21 11:45:50,2882,Milagro2882,GSB1242,39.6354,RedLight,incomplete
+2024-Jun-21 11:21:27,2882,Milagro2882,GB03567G,34.8204,RedLight,incomplete
+2024-Jun-21 11:20:10,2882,Milagro2882,GBN6413,47.766,RedLight,incomplete
+2024-Jun-21 11:04:57,2895,,GTB7590,19.6451,RedLight,incomplete
+2024-Jun-21 10:54:30,2882,Milagro2882,GST4193,31.6106,RedLight,incomplete
+2024-Jun-21 10:54:27,2895,,GTA9746,27.7166,RedLight,incomplete
+2024-Jun-21 10:44:16,2882,Milagro2882,,39.1917,RedLight,incomplete
+2024-Jun-21 10:12:28,2895,,GSW3134,20.8776,RedLight,incomplete
+2024-Jun-21 10:04:27,2882,Milagro2882,GB07926,39.1474,RedLight,incomplete
+2024-Jun-21 09:28:58,2895,,684,23.255,RedLight,incomplete
+2024-Jun-21 09:02:52,2882,Milagro2882,,36.3038,RedLight,incomplete
+2024-Jun-21 08:33:21,2882,Milagro2882,,37.9158,RedLight,incomplete
+2024-Jun-21 08:29:15,2882,Milagro2882,GTP4904,37.2958,RedLight,incomplete
+2024-Jun-21 08:22:00,2882,Milagro2882,EBK0686,33.5338,RedLight,incomplete
+2024-Jun-21 08:17:38,2882,Milagro2882,GBN4173,31.9777,RedLight,incomplete
+2024-Jun-21 06:42:29,2895,,,24.4188,RedLight,incomplete
+2024-Jun-21 06:40:22,2882,Milagro2882,0AJ0311,46.5115,RedLight,incomplete
+2024-Jun-21 05:54:10,2882,Milagro2882,PFI5801,27.6656,RedLight,incomplete
+2024-Jun-21 05:41:22,2882,Milagro2882,,34.3839,RedLight,incomplete
+2024-Jun-21 00:18:05,2882,Milagro2882,GTA3868,32.7283,RedLight,incomplete
+2024-Jun-20 23:31:37,2882,Milagro2882,GSG1816,67.7127,RedLight,no assign
+2024-Jun-20 22:44:08,2882,Milagro2882,,22.8743,RedLight,no assign
+2024-Jun-20 22:19:45,2882,Milagro2882,6B07695,53.7484,RedLight,no assign
+2024-Jun-20 21:05:19,2882,Milagro2882,6TR6733,32.723,RedLight,incomplete
+2024-Jun-20 21:05:18,2882,Milagro2882,GT613Q,21.6454,RedLight,incomplete
+2024-Jun-20 20:15:16,2882,Milagro2882,PC01448,25.4741,RedLight,incomplete
+2024-Jun-20 20:05:01,2882,Milagro2882,,24.7352,RedLight,no assign
+2024-Jun-20 19:59:37,2882,Milagro2882,GBN6884,20.41,RedLight,no assign
+2024-Jun-20 19:19:01,2882,Milagro2882,ABJ1162,27.07,RedLight,incomplete
+2024-Jun-20 19:03:04,2882,Milagro2882,8B749,16.2268,RedLight,incomplete
+2024-Jun-20 18:39:53,2882,Milagro2882,6T07882,29.427,RedLight,incomplete
+2024-Jun-20 18:36:59,2882,Milagro2882,6TN7795,31.9252,RedLight,incomplete
+2024-Jun-20 18:25:23,2882,Milagro2882,PFF1810,33.4344,RedLight,issued
+2024-Jun-20 18:12:20,2882,Milagro2882,GBN6767,25.6952,RedLight,issued
+2024-Jun-20 18:09:32,2895,,,23.4462,RedLight,incomplete
+2024-Jun-20 18:09:26,2882,Milagro2882,GB07941,35.3588,RedLight,incomplete
+2024-Jun-20 18:07:59,2882,Milagro2882,G0P977,37.0256,RedLight,incomplete
+2024-Jun-20 17:56:24,2882,Milagro2882,6TD3951,25.7036,RedLight,incomplete
+2024-Jun-20 17:50:01,2895,,GTK1391,29.229,RedLight,incomplete
+2024-Jun-20 17:39:32,2895,,GSR1463,23.3177,RedLight,incomplete
+2024-Jun-20 17:10:00,2882,Milagro2882,HKJHKJ,23.1204,RedLight,incomplete
+2024-Jun-20 17:05:48,2895,,,7.0301,RedLight,incomplete
+2024-Jun-20 16:36:50,2882,Milagro2882,XBY872,36.4838,RedLight,rejected
+2024-Jun-20 16:29:08,2882,Milagro2882,GTC3127,30.7917,RedLight,incomplete
+2024-Jun-20 16:17:36,2882,Milagro2882,GRY7119,62.5011,RedLight,issued
+2024-Jun-20 16:12:27,2882,Milagro2882,G1P000,42.0186,RedLight,incomplete
+2024-Jun-20 15:59:33,2895,,MEA9,28.3159,RedLight,incomplete
+2024-Jun-20 15:44:13,2882,Milagro2882,GRE997,30.1251,RedLight,incomplete
+2024-Jun-20 14:21:22,2882,Milagro2882,GSK2216,35.9649,RedLight,incomplete
+2024-Jun-20 13:29:10,2882,Milagro2882,GQS047,31.1542,RedLight,incomplete
+2024-Jun-20 13:14:03,2895,,TBH9660,26.4022,RedLight,incomplete
+2024-Jun-20 12:57:41,2882,Milagro2882,PBR5520,30.5795,RedLight,incomplete
+2024-Jun-20 12:47:25,2882,Milagro2882,GSY3139,29.4233,RedLight,incomplete
+2024-Jun-20 12:46:09,2882,Milagro2882,GSF1543,24.771,RedLight,incomplete
+2024-Jun-20 12:45:31,2895,,GBH119,28.8473,RedLight,incomplete
+2024-Jun-20 12:43:34,2882,Milagro2882,GSM2425,26.7531,RedLight,incomplete
+2024-Jun-20 12:42:18,2882,Milagro2882,,23.1901,RedLight,incomplete
+2024-Jun-20 12:21:46,2882,Milagro2882,,39.0404,RedLight,incomplete
+2024-Jun-20 12:19:11,2882,Milagro2882,6BN61,37.1166,RedLight,incomplete
+2024-Jun-20 12:17:54,2882,Milagro2882,,30.5213,RedLight,incomplete
+2024-Jun-20 12:15:45,2895,,,19.9514,RedLight,incomplete
+2024-Jun-20 12:06:21,2882,Milagro2882,GSC5251,29.8404,RedLight,incomplete
+2024-Jun-20 11:50:01,2895,,GTG9722,29.8489,RedLight,incomplete
+2024-Jun-20 11:43:04,2880,Inseg2880,GRC043,35.2241,Speed,incomplete
+2024-Jun-20 11:42:59,2880,Inseg2880,GR2371,37.5206,Speed,incomplete
+2024-Jun-20 11:42:49,2880,Inseg2880,GPY0081,44.8352,Speed,incomplete
+2024-Jun-20 11:42:40,2880,Inseg2880,G807904,36.7038,Speed,incomplete
+2024-Jun-20 11:42:39,2880,Inseg2880,SW2001,40.1438,Speed,incomplete
+2024-Jun-20 11:42:31,2880,Inseg2880,A6E0317,29.2498,Speed,incomplete
+2024-Jun-20 11:42:28,2880,Inseg2880,GTM2848,32.6335,Speed,incomplete
+2024-Jun-20 11:42:08,2880,Inseg2880,GSL4870,31.8382,Speed,incomplete
+2024-Jun-20 11:42:05,2880,Inseg2880,GTB8182,32.5285,Speed,incomplete
+2024-Jun-20 11:42:02,2880,Inseg2880,GBN2057,47.9829,Speed,incomplete
+2024-Jun-20 11:41:50,2880,Inseg2880,GBN6776,36.7174,Speed,incomplete
+2024-Jun-20 11:41:41,2880,Inseg2880,G114E,35.4685,Speed,incomplete
+2024-Jun-20 11:41:41,2880,Inseg2880,GC145,34.2769,Speed,incomplete
+2024-Jun-20 11:41:34,2880,Inseg2880,,55.493,Speed,incomplete
+2024-Jun-20 11:41:30,2880,Inseg2880,G8L11,31.9373,Speed,incomplete
+2024-Jun-20 11:41:26,2880,Inseg2880,GB03788,32.6634,Speed,incomplete
+2024-Jun-20 11:41:20,2880,Inseg2880,,62.711,Speed,incomplete
+2024-Jun-20 11:41:15,2880,Inseg2880,GSR1488,38.2594,Speed,incomplete
+2024-Jun-20 11:39:47,2880,Inseg2880,,56.2403,Speed,incomplete
+2024-Jun-20 10:33:32,2895,,,24.4091,RedLight,incomplete
+2024-Jun-20 10:03:44,2895,,114LE43,31.1472,RedLight,incomplete
+2024-Jun-20 09:58:03,2882,Milagro2882,GSP2610,23.8699,RedLight,incomplete
+2024-Jun-20 09:55:28,2882,Milagro2882,GSP3910,15.0216,RedLight,incomplete
+2024-Jun-20 09:54:12,2882,Milagro2882,GBN419,27.3996,RedLight,incomplete
+2024-Jun-20 09:16:58,2882,Milagro2882,GT69290,30.1759,RedLight,incomplete
+2024-Jun-20 09:11:02,2895,,GTE9603,28.2507,RedLight,incomplete
+2024-Jun-20 09:08:00,2882,Milagro2882,GTR3378,36.0866,RedLight,incomplete
+2024-Jun-20 08:38:28,2882,Milagro2882,GSM6145,40.0711,RedLight,incomplete
+2024-Jun-20 08:00:16,2882,Milagro2882,,40.8315,RedLight,incomplete
+2024-Jun-20 07:24:00,2882,Milagro2882,GBJ032,38.8176,RedLight,incomplete
+2024-Jun-20 06:30:33,2882,Milagro2882,,42.5916,RedLight,incomplete
+2024-Jun-20 05:59:18,2882,Milagro2882,,156.199,RedLight,no assign
+2024-Jun-19 22:51:04,2882,Milagro2882,,30.1457,RedLight,no assign
+2024-Jun-19 22:42:18,2882,Milagro2882,G5242,15.7723,RedLight,no assign
+2024-Jun-19 22:16:24,2882,Milagro2882,GBH5914,16.484,RedLight,incomplete
+2024-Jun-19 21:16:06,2882,Milagro2882,,24.9031,RedLight,incomplete
+2024-Jun-19 20:59:32,2882,Milagro2882,,21.1922,RedLight,no assign
+2024-Jun-19 20:19:39,2882,Milagro2882,GJY988,21.9088,RedLight,no assign
+2024-Jun-19 19:41:40,2882,Milagro2882,,17.9463,RedLight,incomplete
+2024-Jun-19 18:47:48,2882,Milagro2882,6B6441,33.0485,RedLight,incomplete
+2024-Jun-19 18:44:54,2882,Milagro2882,GTC7264,29.5455,RedLight,incomplete
+2024-Jun-19 18:26:06,2895,,GTL3543,18.5405,RedLight,incomplete
+2024-Jun-19 17:32:25,2882,Milagro2882,,36.5365,RedLight,incomplete
+2024-Jun-19 17:07:46,2882,Milagro2882,GTH9377,34.9495,RedLight,incomplete
+2024-Jun-19 14:54:26,2895,,GSM6675,30.6762,RedLight,incomplete
+2024-Jun-19 14:47:54,2882,Milagro2882,,33.4585,RedLight,incomplete
+2024-Jun-19 14:28:35,2882,Milagro2882,GPX483,33.9225,RedLight,incomplete
+2024-Jun-19 14:25:42,2882,Milagro2882,GTIJ0,28.9558,RedLight,incomplete
+2024-Jun-19 14:16:56,2895,,GB03797L,25.5582,RedLight,incomplete
+2024-Jun-19 10:42:55,2882,Milagro2882,GPB3405,30.5506,RedLight,incomplete
+2024-Jun-19 10:21:06,2882,Milagro2882,,52.9796,RedLight,incomplete
+2024-Jun-19 10:08:17,2882,Milagro2882,GSR7560,34.0695,RedLight,incomplete
+2024-Jun-19 09:10:33,2882,Milagro2882,,30.2786,RedLight,incomplete
+2024-Jun-19 09:00:17,2882,Milagro2882,GS03100,52.4159,RedLight,incomplete
+2024-Jun-19 08:39:46,2882,Milagro2882,GRA172,42.104,RedLight,incomplete
+2024-Jun-19 07:39:56,2882,Milagro2882,GMA1535,27.31,RedLight,incomplete
+2024-Jun-19 07:22:33,2882,Milagro2882,,44.613,RedLight,incomplete
+2024-Jun-19 07:05:09,2882,Milagro2882,GSX3619,34.029,RedLight,incomplete
+2024-Jun-19 06:50:36,2882,Milagro2882,6SS8256,37.2646,RedLight,incomplete
+2024-Jun-19 06:48:03,2882,Milagro2882,,49.6074,RedLight,no assign
+2024-Jun-19 06:36:30,2882,Milagro2882,,48.0352,RedLight,no assign
+2024-Jun-18 23:16:08,2882,Milagro2882,,25.564,RedLight,incomplete
+2024-Jun-18 23:10:00,2882,Milagro2882,,32.5726,RedLight,incomplete
+2024-Jun-18 23:04:36,2882,Milagro2882,6BF449,41.6745,RedLight,incomplete
+2024-Jun-18 22:35:04,2882,Milagro2882,GTM5944,23.7414,RedLight,incomplete
+2024-Jun-18 22:24:49,2882,Milagro2882,,40.4577,RedLight,no assign
+2024-Jun-18 21:57:52,2882,Milagro2882,,34.4404,RedLight,no assign
+2024-Jun-18 21:45:02,2882,Milagro2882,GSW5866,33.2554,RedLight,incomplete
+2024-Jun-18 18:28:14,2882,Milagro2882,GSV5917,24.3216,RedLight,incomplete
+2024-Jun-18 18:09:22,2882,Milagro2882,CT876,23.7035,RedLight,incomplete
+2024-Jun-18 17:34:35,2882,Milagro2882,GB07941,38.738,RedLight,incomplete
+2024-Jun-18 17:23:00,2882,Milagro2882,,45.6863,RedLight,incomplete
+2024-Jun-18 16:41:55,2882,Milagro2882,,30.2189,RedLight,incomplete
+2024-Jun-18 16:14:57,2882,Milagro2882,,21.4541,RedLight,incomplete
+2024-Jun-18 15:53:09,2882,Milagro2882,VBA1847,52.0148,RedLight,incomplete
+2024-Jun-18 15:47:10,2882,Milagro2882,,24.9957,RedLight,incomplete
+2024-Jun-18 14:54:38,2882,Milagro2882,GBJ032,36.507,RedLight,incomplete
+2024-Jun-18 14:38:31,2882,Milagro2882,ZCS,36.1203,Speed,incomplete
+2024-Jun-18 14:37:12,2882,Milagro2882,ABL7582,31.6921,Speed,incomplete
+2024-Jun-18 14:37:06,2882,Milagro2882,GTK5934,31.4959,Speed,incomplete
+2024-Jun-18 14:36:55,2882,Milagro2882,GTN5992,23.5213,Speed,incomplete
+2024-Jun-18 14:35:26,2882,Milagro2882,,26.6965,Speed,incomplete
+2024-Jun-18 14:34:09,2882,Milagro2882,GBN2024,22.339,Speed,incomplete
+2024-Jun-18 14:34:06,2882,Milagro2882,6TA4310,20.435,Speed,incomplete
+2024-Jun-18 14:34:00,2882,Milagro2882,GTA2879,23.0414,Speed,incomplete
+2024-Jun-18 14:32:44,2882,Milagro2882,GSW1568,32.9876,Speed,incomplete
+2024-Jun-18 14:32:41,2882,Milagro2882,ABK1860,27.238,Speed,incomplete
+2024-Jun-18 14:32:31,2882,Milagro2882,GNM268,20.3456,Speed,incomplete
+2024-Jun-18 14:31:08,2882,Milagro2882,GTP1336,23.401,Speed,incomplete
+2024-Jun-18 14:31:06,2882,Milagro2882,,21.7454,Speed,incomplete
+2024-Jun-18 14:29:56,2882,Milagro2882,GTG7287,30.2976,Speed,incomplete
+2024-Jun-18 14:29:48,2882,Milagro2882,,38.6297,Speed,incomplete
+2024-Jun-18 14:29:42,2882,Milagro2882,GCT2877,33.3259,Speed,incomplete
+2024-Jun-18 14:28:30,2882,Milagro2882,,36.7318,Speed,incomplete
+2024-Jun-18 14:28:18,2882,Milagro2882,,25.8979,Speed,incomplete
+2024-Jun-18 14:28:16,2882,Milagro2882,GSS2549,25.2808,Speed,incomplete
+2024-Jun-18 14:28:15,2882,Milagro2882,,37.1728,Speed,no assign
+2024-Jun-18 14:28:12,2882,Milagro2882,GSW1557,23.4776,Speed,no assign
+2024-Jun-18 14:28:10,2882,Milagro2882,GB03846,20.9746,Speed,incomplete
+2024-Jun-18 14:27:04,2882,Milagro2882,GTI2295,33.9138,Speed,incomplete
+2024-Jun-18 14:27:01,2882,Milagro2882,908N,28.866,Speed,incomplete
+2024-Jun-18 14:26:45,2882,Milagro2882,GR071,26.2717,Speed,no assign
+2024-Jun-18 14:26:44,2882,Milagro2882,M8A4004,20.8098,Speed,incomplete
+2024-Jun-18 14:25:14,2882,Milagro2882,ABL4035,22.285,Speed,no assign
+2024-Jun-18 14:24:04,2882,Milagro2882,,31.5075,Speed,incomplete
+2024-Jun-18 14:24:02,2882,Milagro2882,201C,22.8987,Speed,incomplete
+2024-Jun-18 14:22:37,2882,Milagro2882,G8F286,33.1498,Speed,no assign
+2024-Jun-18 14:22:32,2882,Milagro2882,PPK0265,22.8336,Speed,incomplete
+2024-Jun-18 14:22:29,2882,Milagro2882,GMZ850,24.6452,Speed,incomplete
+2024-Jun-18 14:20:58,2882,Milagro2882,,25.3934,Speed,incomplete
+2024-Jun-18 14:20:57,2882,Milagro2882,G0G843,25.1888,Speed,incomplete
+2024-Jun-18 14:20:54,2882,Milagro2882,GB377,23.1763,Speed,incomplete
+2024-Jun-18 14:19:44,2882,Milagro2882,SL2949,33.9773,Speed,no assign
+2024-Jun-18 14:19:37,2882,Milagro2882,X1X13,39.8109,Speed,no assign
+2024-Jun-18 14:19:35,2882,Milagro2882,,32.5821,Speed,no assign
+2024-Jun-18 14:18:16,2882,Milagro2882,HB423,32.81,Speed,incomplete
+2024-Jun-18 14:18:01,2882,Milagro2882,30J0,23.4853,Speed,incomplete
+2024-Jun-18 14:17:58,2882,Milagro2882,GTN5836,20.663,Speed,incomplete
+2024-Jun-18 13:36:22,2882,Milagro2882,710,24.787,RedLight,incomplete
+2024-Jun-18 12:24:16,2882,Milagro2882,PAB8865,29.7804,RedLight,incomplete
+2024-Jun-18 12:20:25,2882,Milagro2882,GRY4860,32.0939,RedLight,incomplete
+2024-Jun-18 12:16:34,2882,Milagro2882,GSW2189,25.6691,RedLight,incomplete
+2024-Jun-18 12:11:28,2882,Milagro2882,GSF915,20.8762,RedLight,incomplete
+2024-Jun-18 12:07:35,2882,Milagro2882,GSN7146,47.0848,RedLight,no assign
+2024-Jun-18 11:40:39,2882,Milagro2882,GSU9434,33.5923,RedLight,no assign
+2024-Jun-18 11:27:49,2882,Milagro2882,GBN11E3,40.1821,RedLight,no assign
+2024-Jun-17 19:14:35,2882,Milagro2882,GSX6346,37.7386,Speed,incomplete
+2024-Jun-17 19:05:54,2882,Milagro2882,SWTK95,32.9764,Speed,incomplete
+2024-Jun-17 19:00:37,2882,Milagro2882,,27.282,RedLight,no assign
+2024-Jun-17 18:54:17,2882,Milagro2882,PCW8062,29.2006,Speed,incomplete
+2024-Jun-17 18:45:35,2882,Milagro2882,GS960,34.3544,RedLight,incomplete
+2024-Jun-17 18:39:47,2882,Milagro2882,PF64586,25.2668,RedLight,incomplete
+2024-Jun-17 18:25:18,2882,Milagro2882,6SW5854,27.6516,RedLight,no assign
+2024-Jun-17 18:19:30,2882,Milagro2882,PDR3437,24.1808,RedLight,no assign
+2024-Jun-17 18:10:48,2882,Milagro2882,,34.7006,RedLight,no assign
+2024-Jun-17 18:09:21,2882,Milagro2882,,27.795,RedLight,incomplete
+2024-Jun-17 17:50:30,2882,Milagro2882,,22.9588,RedLight,incomplete
+2024-Jun-17 16:18:46,2882,Milagro2882,0BC2776,24.2228,RedLight,incomplete
+2024-Jun-17 16:17:29,2882,Milagro2882,GSB9618,25.0618,RedLight,no assign
+2024-Jun-17 16:12:22,2882,Milagro2882,,41.8963,RedLight,no assign
+2024-Jun-17 15:23:37,2882,Milagro2882,,27.4468,RedLight,no assign
+2024-Jun-17 15:08:12,2882,Milagro2882,PL5430,41.6203,RedLight,no assign
+2024-Jun-17 15:01:48,2882,Milagro2882,GSS7495,36.8047,RedLight,incomplete
+2024-Jun-17 14:11:07,2882,Milagro2882,0A910,30.3293,RedLight,incomplete
+2024-Jun-17 13:52:16,2882,Milagro2882,GSM1758,24.5944,RedLight,incomplete
+2024-Jun-14 18:16:31,2882,Milagro2882,PDM3546,23.4595,RedLight,no assign
+2024-Jun-14 18:10:44,2882,Milagro2882,,47.2313,RedLight,no assign
+2024-Jun-14 18:09:17,2882,Milagro2882,,22.122,RedLight,no assign
+2024-Jun-14 17:51:52,2882,Milagro2882,PCV7415,27.4619,RedLight,no assign
+2024-Jun-14 17:33:02,2882,Milagro2882,PAC1687,34.6088,RedLight,incomplete
+2024-Jun-14 17:04:03,2882,Milagro2882,,30.9456,RedLight,incomplete
+2024-Jun-14 16:52:04,2882,Milagro2882,GMG040,28.8018,RedLight,no assign
+2024-Jun-14 16:07:10,2882,Milagro2882,,26.3425,RedLight,incomplete
+2024-Jun-14 13:49:23,2882,Milagro2882,,14.0153,RedLight,incomplete
+2024-Jun-14 12:45:59,2882,Milagro2882,GTB4707,27.0409,RedLight,incomplete
+2024-Jun-14 12:29:18,2882,Milagro2882,GTK9750,30.1166,RedLight,incomplete
+2024-Jun-14 12:06:12,2882,Milagro2882,,14.9982,RedLight,incomplete
+2024-Jun-14 11:57:14,2882,Milagro2882,,59.2564,RedLight,incomplete
+2024-Jun-14 11:45:40,2882,Milagro2882,GNS634,35.2291,RedLight,incomplete
+2024-Jun-14 11:43:07,2882,Milagro2882,GSV2763,22.6697,RedLight,no assign
+2024-Jun-14 11:00:46,2882,Milagro2882,GBN5039,43.6861,RedLight,incomplete
+2024-Jun-14 10:39:35,2882,Milagro2882,G808,17.4274,RedLight,incomplete
+2024-Jun-14 10:13:17,2882,Milagro2882,6MT0168,35.7631,RedLight,incomplete
+2024-Jun-14 09:19:23,2882,Milagro2882,,40.7626,RedLight,incomplete
+2024-Jun-14 08:31:55,2882,Milagro2882,GBN868,50.1718,RedLight,incomplete
+2024-Jun-14 08:00:27,2882,Milagro2882,,19.6716,RedLight,no assign
+2024-Jun-14 07:12:14,2882,Milagro2882,GB03776,31.9647,RedLight,no assign
+2024-Jun-14 06:38:56,2882,Milagro2882,150M,37.7985,RedLight,no assign
+2024-Jun-14 06:26:05,2882,Milagro2882,G472,38.594,RedLight,incomplete
+2024-Jun-14 06:11:58,2882,Milagro2882,6TN7011,40.3459,RedLight,incomplete
+2024-Jun-14 05:30:55,2882,Milagro2882,GCB7010,38.1875,RedLight,no assign
+2024-Jun-14 00:14:01,2882,Milagro2882,GTA3868,30.4171,RedLight,no assign
+2024-Jun-13 21:38:31,2882,Milagro2882,,32.2052,RedLight,no assign
+2024-Jun-13 21:26:58,2882,Milagro2882,GN783,26.7067,RedLight,no assign
+2024-Jun-13 21:06:27,2882,Milagro2882,,23.497,RedLight,no assign
+2024-Jun-13 21:00:02,2882,Milagro2882,6TM4761,32.7248,RedLight,no assign
+2024-Jun-13 20:54:53,2882,Milagro2882,GTA6741,29.8832,RedLight,no assign
+2024-Jun-13 20:29:14,2882,Milagro2882,GEA2676,31.7365,RedLight,no assign
+2024-Jun-13 20:25:23,2882,Milagro2882,GSV2809,39.7643,RedLight,no assign
+2024-Jun-13 20:18:58,2882,Milagro2882,,42.8503,RedLight,no assign
+2024-Jun-13 20:11:16,2882,Milagro2882,PBN4529,32.0697,RedLight,no assign
+2024-Jun-13 19:20:20,2882,Milagro2882,,19.762,RedLight,no assign
+2024-Jun-13 19:15:59,2882,Milagro2882,GSV9161,43.6919,RedLight,no assign
+2024-Jun-13 18:52:47,2882,Milagro2882,PDQ6175,19.3973,RedLight,no assign
+2024-Jun-13 18:39:43,2882,Milagro2882,6TR9632,30.8645,RedLight,incomplete
+2024-Jun-13 18:35:23,2882,Milagro2882,6SL3999,28.8438,RedLight,incomplete
+2024-Jun-13 18:35:23,2882,Milagro2882,6TM8154,26.5614,RedLight,incomplete
+2024-Jun-13 18:20:52,2882,Milagro2882,GB03786,27.969,RedLight,no assign
+2024-Jun-13 18:17:58,2882,Milagro2882,GSM280,29.4204,RedLight,no assign
+2024-Jun-12 19:34:46,2882,Milagro2882,6TH8658,22.3389,RedLight,incomplete
+2024-Jun-11 23:48:10,2882,Milagro2882,6ST9289,31.5181,RedLight,incomplete
+2024-Jun-11 23:12:25,2882,Milagro2882,,24.9097,RedLight,incomplete
+2024-Jun-11 22:21:16,2882,Milagro2882,,20.145,RedLight,no assign
+2024-Jun-11 21:32:08,2882,Milagro2882,GRZ5464,29.2338,RedLight,no assign
+2024-Jun-11 20:51:03,2882,Milagro2882,GBP1160,19.5973,RedLight,incomplete
+2024-Jun-11 20:16:26,2882,Milagro2882,GYM9192,34.6062,RedLight,incomplete
+2024-Jun-11 19:58:13,2882,Milagro2882,GTD3951,30.6151,RedLight,no assign
+2024-Jun-11 19:48:04,2882,Milagro2882,,30.2963,RedLight,no assign
+2024-Jun-11 18:29:47,2882,Milagro2882,,27.9829,RedLight,incomplete
+2024-Jun-11 18:29:45,2882,Milagro2882,6SN1485,26.6753,RedLight,incomplete
+2024-Jun-11 18:19:38,2882,Milagro2882,TBF9468,42.1214,RedLight,no assign
+2024-Jun-11 18:15:16,2882,Milagro2882,PBR5520,28.8508,RedLight,no assign
+2024-Jun-11 17:04:14,2882,Milagro2882,,30.8111,RedLight,incomplete
+2024-Jun-11 16:44:35,2882,Milagro2882,YBA1826,35.9771,RedLight,incomplete
+2024-Jun-11 16:43:18,2882,Milagro2882,G0P052,45.2458,RedLight,incomplete
+2024-Jun-11 15:54:32,2882,Milagro2882,GBN6492,29.9827,RedLight,incomplete
+2024-Jun-11 15:44:15,2882,Milagro2882,TA04A,25.9505,RedLight,incomplete
+2024-Jun-11 14:21:24,2882,Milagro2882,971,46.5676,RedLight,incomplete
+2024-Jun-11 13:26:19,2882,Milagro2882,GBN1587,40.0975,RedLight,incomplete
+2024-Jun-11 13:08:55,2882,Milagro2882,PCK6349,32.0816,RedLight,no assign
+2024-Jun-11 11:50:16,2882,Milagro2882,GTD7091,18.6808,RedLight,no assign
+2024-Jun-11 11:27:10,2882,Milagro2882,GTQ5654,30.7045,RedLight,incomplete
+2024-Jun-11 10:55:05,2882,Milagro2882,PFG3504,26.6581,RedLight,incomplete
+2024-Jun-11 10:48:42,2882,Milagro2882,SSV4239,47.3454,RedLight,incomplete
+2024-Jun-11 10:14:30,2882,Milagro2882,GSW2308,23.3925,RedLight,no assign
+2024-Jun-11 10:13:13,2882,Milagro2882,GCA7856,19.5782,RedLight,no assign
+2024-Jun-11 09:35:14,2882,Milagro2882,GBM863,19.0664,RedLight,no assign
+2024-Jun-11 07:58:43,2882,Milagro2882,,32.7781,RedLight,no assign
+2024-Jun-11 07:33:56,2882,Milagro2882,473C,29.9446,RedLight,no assign
+2024-Jun-11 07:13:39,2882,Milagro2882,GB03795,25.0176,RedLight,no assign
+2024-Jun-11 06:40:09,2882,Milagro2882,GB03567,31.4,RedLight,no assign
+2024-Jun-11 06:27:20,2882,Milagro2882,GSW,50.5071,RedLight,no assign
+2024-Jun-11 00:25:46,2882,Milagro2882,GBN5430,24.0164,RedLight,incomplete
+2024-Jun-10 23:14:39,2882,Milagro2882,GPM711,30.5497,RedLight,incomplete
+2024-Jun-10 23:06:58,2882,Milagro2882,PBH3142,35.6934,RedLight,no assign
+2024-Jun-10 22:19:30,2882,Milagro2882,GGN056,41.9283,RedLight,no assign
+2024-Jun-10 21:58:57,2882,Milagro2882,GSX7440,28.369,RedLight,incomplete
+2024-Jun-10 21:41:00,2882,Milagro2882,6CT2489,30.1531,RedLight,no assign
+2024-Jun-10 21:07:38,2882,Milagro2882,44,36.7904,RedLight,no assign
+2024-Jun-10 20:58:39,2882,Milagro2882,GTJ7560,35.7269,RedLight,no assign
+2024-Jun-10 20:47:07,2882,Milagro2882,2,22.6901,RedLight,no assign
+2024-Jun-10 20:40:41,2882,Milagro2882,BC3779,27.1595,RedLight,no assign
+2024-Jun-10 20:38:07,2882,Milagro2882,RY13867,20.0163,RedLight,no assign
+2024-Jun-10 20:27:52,2882,Milagro2882,6S14676,22.2077,RedLight,no assign
+2024-Jun-10 20:25:17,2882,Milagro2882,GMN288,32.3023,RedLight,no assign
+2024-Jun-10 20:02:12,2882,Milagro2882,6SV5957,27.174,RedLight,no assign
